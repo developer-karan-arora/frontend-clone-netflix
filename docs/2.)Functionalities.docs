@@ -1,0 +1,17 @@
+-> Welcome
+      redirect to getStarted Page
+-> Sign-up
+      functional
+-> Sign-in
+      functional
+-----------------------------
+Trending  /Trending
+Movie     /movies
+TVShow    /tv
+Detai     /Detai
+Search
+Logout
+
+My List   /list
+Select Account
+Recently Watched
